@@ -1,0 +1,13 @@
+~*
+*.tmp
+*.bak
+tmp/
+
+desktop.ini
+*.db	
+
+.dropbox.cache/
+.svn/
+.idea/
+
+node_modules/
