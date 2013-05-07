@@ -1,22 +1,29 @@
 {
-    "family": "marketing",
-    "name": "zepto",
-    "version": "1.0.0",
-    "description": "Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.",
-    "main": "index.js",
-    "scripts": {
-        "test": "grunt test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/pushiming/sea-module-sample.git"
-    },
-    "keywords": [
-        "zepto",
-        "mobile"
-    ],
-    "author": "madrobby",
-    "license": "MIT",
-    "readmeFilename": "README.md",
-    "gitHead": "f7ed6d29b06911e5e7b495bb67e2fa1c2e69f0d6"
+  "family": "marketing",
+  "name": "zepto",
+  "version": "1.0.0",
+  "description": "Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pushiming/sea-module-sample.git"
+  },
+  "keywords": [
+    "zepto",
+    "mobile"
+  ],
+  "author": "madrobby",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f7ed6d29b06911e5e7b495bb67e2fa1c2e69f0d6",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cmd-concat": "~0.2.2",
+    "grunt-cmd-transport": "~0.2.3",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-uglify": "~0.2.0"
+  }
 }
