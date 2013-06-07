@@ -1,2 +1,2 @@
-sea-module-sample
+sea-module-zepto-zepto
 =================
