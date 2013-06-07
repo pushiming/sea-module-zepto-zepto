@@ -1,5 +1,5 @@
 {
-  "family": "marketing",
+  "family": "zepto",
   "name": "zepto",
   "version": "1.0.0",
   "description": "Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pushiming/sea-module-sample.git"
+    "url": "git://github.com/pushiming/sea-module-zepto-zepto.git"
   },
   "keywords": [
     "zepto",
